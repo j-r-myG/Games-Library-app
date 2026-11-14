@@ -19,7 +19,7 @@ function Hero({title="Title here", subtitle="subtitle here"}) {
             </section>
 
         </>
-    )
+    );
 }
 
 export default Hero;
